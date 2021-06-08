@@ -34,6 +34,7 @@ Toolbar relies on groups (`.pf-c-toolbar__group`) and items (`.pf-c-toolbar__ite
 | `.pf-m-visible{-on-[breakpoint]}` | `.pf-c-toolbar > *` | Modifies toolbar element to be shown, at optional breakpoint. |
 | `.pf-m-align-right{-on-[breakpoint]}` | `.pf-c-toolbar > *` | Modifies toolbar element to align right, at optional breakpoint. |
 | `.pf-m-align-left{-on-[breakpoint]}` | `.pf-c-toolbar > *` | Modifies toolbar element to align left, at optional breakpoint. |
+| `.pf-m-sticky-top` | `.pf-c-toolbar-*` | Modifies toolbar element to be sticky to the top of its container. |
 
 ### Special notes
 
